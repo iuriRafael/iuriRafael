@@ -1,4 +1,4 @@
-### Olá!! Eu sou a Iuri Rafael ✋ 
+### Olá!! Eu sou Iuri Rafael ✋ 
 📚 Estou no terceiro ano de informática na escola técnica estadual Monteiro Lobato
 <br>
 👩‍💻 Front-end
