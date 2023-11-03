@@ -1,9 +1,9 @@
 ### Olá!! Eu sou Iuri Rafael ✋ 
 📚 Estou no terceiro ano de informática na escola técnica estadual Monteiro Lobato
 <br>
-👩‍💻 Front-end
+👩‍💻 Full stack
 <br>
-💼 Pretendo trabalhar como desenvolvedor Front-end
+💼 Pretendo trabalhar como desenvolvedor Full stack
 <br>
 🌱 Estudando novas linguagens de programação!
 <br>
