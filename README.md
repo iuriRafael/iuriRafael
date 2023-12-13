@@ -3,7 +3,6 @@
 <br>
 👩‍💻 Full stack
 <br>
-💼 Pretendo trabalhar como desenvolvedor Full stack
 <br>
 🌱 Estudando novas linguagens de programação!
 <br>
