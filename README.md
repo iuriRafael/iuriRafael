@@ -14,7 +14,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriRafael&layout=compact&hide_border=true&title_color=FF4500&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-## Tecnologias que utilizo 💻
+<div align="center"><h1>Tecnologias que utilizo</h1></div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java,mysql" /><br>
