@@ -10,7 +10,6 @@
 ⚡ Gosto de aprender coisas novas!
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuriRafael&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=35,1a1b27,252334"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuriRafael&layout=compact&langs_count=16&hide_border=true&theme=tokyonight"/>
 </div>
 
