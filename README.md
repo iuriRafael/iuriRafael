@@ -16,8 +16,7 @@
 
 <div align="center"><h1>Tecnologias que utilizo</h1></div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java,mysql,ruby" /><br>
 </div>
 
 
