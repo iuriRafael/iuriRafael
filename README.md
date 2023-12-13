@@ -3,7 +3,6 @@
 <br>
 👩‍💻 Full stack
 <br>
-<br>
 🌱 Estudando novas linguagens de programação!
 <br>
 ⚡ Gosto de aprender coisas novas!
